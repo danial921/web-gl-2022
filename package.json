@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "three": "^0.147.0"
+  },
+  "deploy": "gh-pages -d lamp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d lamp"
+  }
+}
